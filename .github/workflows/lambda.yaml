@@ -1,4 +1,4 @@
-Name: "Lambda deployment"
+name: "Lambda deployment"
 on:
   push:
     branches:
